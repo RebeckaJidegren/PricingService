@@ -1,0 +1,6 @@
+@QueensLab_HostAddress = http://localhost:5170
+
+GET {{QueensLab_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
